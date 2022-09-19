@@ -5,7 +5,7 @@
 }
 
 #left-sidebar {
-  height: 125vh;
+  height: 135vh;
   color:  white;
 }
 
@@ -73,6 +73,29 @@
   color: white;
 }
 
+#card-4 {
+  background-color: #adc0ff;
+  color: white;
+}
+
+#card-5 {
+  background-color: #ffc2f0;
+  color: white;
+}
+
+#card-6 {
+  background-color: #ff9f5f;
+  color: white;
+}
+
+#icon-below-1 {
+  font-size: 25px;
+  padding-top: 5px;
+}
+
+#card-text-tile > h6 {
+  margin-top: -15px;
+}
 
 
 /* body {

@@ -1,3 +1,4 @@
+import React from "react";
 import Hero from "./components/Hero";
 import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
